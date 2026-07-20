@@ -22,3 +22,12 @@ A python project for analyzing the human TP53 gene sequence from a FASTA file.
 ```bash pip install matplotlib```
 2.Run the program
 ```bash python analyzer.py```
+
+## Example Output
+
+```text
+Sequence Length: 2487 bp
+GC Content: 53.8%
+AT Content: 46.2%
+Protein Length: 393 amino acids
+```
