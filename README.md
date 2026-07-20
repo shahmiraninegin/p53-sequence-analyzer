@@ -33,5 +33,5 @@ First 20 amino acids: MEEPQSDPSVEPPLSQETFS
 Last 20 amino acids: GQSTSRHKKLMFKTEGPDSD
 The program generates a nucleotide count bar chart in the `output` folder.
 
-![TP53 Nucleotide Count]https://github.com/shahmiraninegin/p53-sequence-analyzer/blob/main/output/TP53_nucleotide_count.png)
+
 ```
