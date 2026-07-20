@@ -31,4 +31,7 @@ GC Content: 53.38%
 Protein Length: 393 amino acids
 First 20 amino acids: MEEPQSDPSVEPPLSQETFS
 Last 20 amino acids: GQSTSRHKKLMFKTEGPDSD
+The program generates a nucleotide count bar chart in the `output` folder.
+
+![TP53 Nucleotide Count](output/TP53_nucleotide_count.png)
 ```
