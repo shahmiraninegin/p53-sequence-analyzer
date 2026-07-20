@@ -26,8 +26,9 @@ A python project for analyzing the human TP53 gene sequence from a FASTA file.
 ## Example Output
 
 ```text
-Sequence Length: 2487 bp
-GC Content: 53.8%
-AT Content: 46.2%
+Sequence Length: 2512 bp
+GC Content: 53.38%
 Protein Length: 393 amino acids
+First 20 amino acids: MEEPQSDPSVEPPLSQETFS
+Last 20 amino acids: GQSTSRHKKLMFKTEGPDSD
 ```
