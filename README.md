@@ -15,7 +15,7 @@ A python project for analyzing the human TP53 gene sequence from a FASTA file.
 
 ## Technologies
 -Python
--Matpltlib
+-Matplotlib
 
 ## How to Run
 1.Install Matplotlib
